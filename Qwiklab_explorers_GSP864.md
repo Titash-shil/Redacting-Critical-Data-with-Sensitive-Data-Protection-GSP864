@@ -10,11 +10,11 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Visualizing-Billing-Data-with-Looker-Studio-GSP622/refs/heads/main/qwiklab_explorers_gsp622.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Redacting-Critical-Data-with-Sensitive-Data-Protection-GSP864/refs/heads/main/qwiklab_explorers_gsp864.sh
 
-sudo chmod +x qwiklab_explorers_gsp622.sh
+sudo chmod +x qwiklab_explorers_gsp864.sh
 
-./qwiklab_explorers_gsp622.sh
+./qwiklab_explorers_gsp864.sh
 ```
 
 ---
